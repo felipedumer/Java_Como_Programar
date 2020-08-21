@@ -1,0 +1,5 @@
+Adalberto;100.20
+Adalberto2;300.20
+Adalberto3;100.20
+Adalberto4;100.20
+Adalberto5;100.20
